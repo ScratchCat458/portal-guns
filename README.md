@@ -13,7 +13,10 @@ Custom portal guns models for Portal 2.
 - Once the dots are all yellow, quit the game
 
 ## Finishing Touches
-### To see the portal gun as shown here ![here](https://scratchcat458.github.io/images/620_screenshots_20210101181856_1.jpg)
+### To see the portal gun as shown here
+
+![here](https://scratchcat458.github.io/images/620_screenshots_20210101181856_1.jpg)
+
 - Turn on the developer console in Options -> Keyboard/Mouse
 - Open any singleplayer level
 - Press tilde (~) to open the developer console
